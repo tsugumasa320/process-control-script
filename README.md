@@ -13,7 +13,7 @@
 2. `process_names`変数に、操作対象のプロセス名をスペースで区切って指定します。例えば、以下のように設定します。
 
    ```bash
-   process_names=("Live" "VirtualDJ")
+   process_names=("Live" "Max")
 スクリプトを実行します。
 
 ./process-control-script.sh
@@ -47,7 +47,7 @@ This shell script is a utility that retrieves the PIDs (Process IDs) of processe
 2. Specify the process names you want to operate on by separating them with spaces in the `process_names` variable. For example, set it like this:
 
    ```bash
-   process_names=("Live" "VirtualDJ")
+   process_names=("Live" "Max")
 Execute the script.
 
 bash
