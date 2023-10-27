@@ -14,7 +14,12 @@
 
    ```bash
    process_names=("Live" "Max")
+   ```
 スクリプトを実行します。
+
+   ```bash
+   sh process-control-script.sh
+   ```
 
 ./process-control-script.sh
 スクリプトは指定したプロセス名に一致するプロセスのPIDを取得し、指定した操作を実行します。現在のバージョンでは、プロセスの優先度を変更する操作が含まれていますが、必要に応じて他の操作を追加または変更することができます。
@@ -48,7 +53,12 @@ This shell script is a utility that retrieves the PIDs (Process IDs) of processe
 
    ```bash
    process_names=("Live" "Max")
+   ```
 Execute the script.
+
+   ```bash
+   sh process-control-script.sh
+   ```
 
 bash
 Copy code
