@@ -41,7 +41,7 @@
 <details>
 <summary>Click to expand</summary>
 
-# Process Priority　Control Script
+# Process Priority Control Script
 
 This shell script is a utility that retrieves the PIDs (Process IDs) of processes matching specified process names and allows you to perform various operations using those PIDs. This script can perform operations on multiple process names at once. Here is an overview of the script and how to use it.
 
