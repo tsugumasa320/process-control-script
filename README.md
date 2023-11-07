@@ -2,7 +2,7 @@
 <details>
 <summary>クリックして展開</summary>
 
-# プロセス操作スクリプト
+# プロセス優先度操作スクリプト
 
 このシェルスクリプトは、指定したプロセス名に一致するプロセスのPIDを取得し、そのPIDを使用して他の操作を実行するためのユーティリティです。このスクリプトは、複数のプロセス名に対して一括で操作を行うことができます。以下はスクリプトの概要と使用方法です。
 
@@ -41,7 +41,7 @@
 <details>
 <summary>Click to expand</summary>
 
-# Process Control Script
+# Process Priority　Control Script
 
 This shell script is a utility that retrieves the PIDs (Process IDs) of processes matching specified process names and allows you to perform various operations using those PIDs. This script can perform operations on multiple process names at once. Here is an overview of the script and how to use it.
 
